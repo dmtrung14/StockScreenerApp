@@ -1,6 +1,8 @@
-#StocksScreenerApp
-Coming Soon ...
+# StocksScreenerApp
+Coming Soon ... 
+
 Contact me at: trungdangminh14012004@gmail.com if you'd like to be a partner or contributor.
+
 The following lines are references from the original project
 
 ## Introduction
