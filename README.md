@@ -1,18 +1,23 @@
-# Introduction
+#StocksScreenerApp
+Coming Soon ...
+Contact me at: trungdangminh14012004@gmail.com if you'd like to be a partner or contributor.
+The following lines are references from the original project
+
+## Introduction
 
 A financial sample that demonstrates the usage of Wijmo controls in OpenFin application
 
-# System requirements
+## System requirements
 
 Node.js version 10.9.0 or later
 
-# Usage
+## Usage
 
 First, you need to install dependencies:
 
     npm install
 
-## How to run OpenFin application
+### How to run OpenFin application
 
 Run command as follows:
 
@@ -20,7 +25,7 @@ Run command as follows:
 
 This command will run development web servers for corresponding apps, and then will run OpenFin application.
 
-## How to build distrubution package
+### How to build distrubution package
 
 Run command as follows:
 
@@ -30,7 +35,7 @@ Then you can test package by running command:
 
     npm run test-package
 
-# Directory Structure
+## Directory Structure
 
 This project is organized in the following way:
 
@@ -52,7 +57,7 @@ Directory `./packages` includes different projects that act as a building blocks
 
 Directory `./resources` includes different resources basically required for building this sample application.
 
-# About Wijmo StockPortfolio sample
+## About Wijmo StockPortfolio sample
 
 Shows how to build portfolios and watch their performance using our controls. This sample was inspired by the Google Finance site.
 
@@ -84,7 +89,7 @@ items. Using a CollectionView provides a standard way to handle sorting and curr
 The application defines an 'app-sorter' directive that allows users to sort the 
 portfolio items by name, symbol, value, etc.
 
-# About OpenFin
+## About OpenFin
 
 Everything that you want to know about OpenFin is available here:
 
